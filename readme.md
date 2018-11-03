@@ -24,6 +24,8 @@ $ kubectl get pods
 ## Service list
 ```
 $ kubectl get services
+
+$ minikube service list
 ```
 
 ## Access

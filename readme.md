@@ -7,13 +7,13 @@
 ## Create
 ```
 $ kubectl apply -f deploy.yml
-$ kubectl apply -f server.yml
+$ kubectl apply -f service.yml
 ```
 
 ## Delete
 ```
 $ kubectl delete -f deploy.yml
-$ kubectl delete -f server.yml
+$ kubectl delete -f service.yml
 ```
 
 ## Pod list
